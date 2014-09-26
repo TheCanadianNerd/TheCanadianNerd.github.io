@@ -1,9 +1,13 @@
 .intro-message {
 	text-align: center;
 	padding-top: 20%;
-	padding-bottom: 50%;
+	padding-bottom: 15%;
 	color: #fff;
 }
 body {
 	background: url(justice_league_2012_by_xionice-d4nfxd9.jpg)no-repeat center center;
+}
+.signup-form {
+	color: #fff;
+	text-align: center;
 }
